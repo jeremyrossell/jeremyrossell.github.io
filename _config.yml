@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Jeremy Rossell
-logo: /assets/img/icon.png
+logo: /assets/img/michis.jpg
 description: Welcome to my curriculum.
 show_downloads: true
 google_analytics:
