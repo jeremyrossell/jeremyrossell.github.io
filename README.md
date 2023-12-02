@@ -1,2 +1,1 @@
-# jeremyrossell.github.io
-my professional curriculum i guess
+Portfolio of different projects I've worked on.
